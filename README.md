@@ -91,3 +91,43 @@ Problem to Solve:
 11. Supply Chain Traceability and Transparency: Supply chains are often complex, opaque, and prone to inefficiencies, fraud, and counterfeiting. Quantum-Mesh addresses this problem by leveraging blockchain technology to enable end-to-end traceability, transparency, and immutability in supply chains. By recording and verifying transactions on a tamper-proof blockchain ledger, Quantum-Mesh provides stakeholders with real-time visibility into the provenance, authenticity, and conditions of goods as they move through the supply chain, enabling better quality control, compliance monitoring, and risk management.
 
 12. Financial Inclusion and Access: Billions of people around the world lack access to basic financial services due to factors such as limited infrastructure, geographical barriers, and lack of documentation. Quantum-Mesh aims to solve this problem by leveraging blockchain technology to enable financial inclusion and access for underserved populations. By providing secure, borderless, and censorship-resistant financial services, Quantum-Mesh empowers individuals to participate in the global economy, access credit, savings, and investment opportunities, and build wealth in a more inclusive and equitable financial system.
+
+# Contributor Guide 
+
+Contributor Guide for Quantum-Mesh Git Repository:
+
+Thank you for your interest in contributing to Quantum-Mesh! Your contributions are valuable to our mission of advancing blockchain technology through quantum computing principles. To ensure a smooth and collaborative development process, please follow this guide:
+
+1. **Familiarize Yourself with the Project**: Before contributing, take some time to familiarize yourself with the Quantum-Mesh project. Review the project's goals, vision, and existing codebase to understand its architecture, design principles, and contribution guidelines.
+
+2. **Set Up Your Development Environment**: To start contributing, you'll need to set up your development environment. Clone the Quantum-Mesh repository from GitHub and follow the installation instructions provided in the README.md file. Make sure you have the necessary dependencies and tools installed.
+
+3. **Understand Contribution Guidelines**: Review the contribution guidelines outlined in the repository's CONTRIBUTING.md file. Follow these guidelines when submitting pull requests (PRs), reporting issues, or proposing new features. Pay attention to coding standards, commit message format, and testing requirements.
+
+4. **Choose an Issue or Feature to Work On**: Browse the list of open issues or feature requests in the repository's issue tracker. Choose an issue or feature that aligns with your interests, skills, and availability. If you have a new idea or feature to propose, open a new issue to discuss it with the maintainers and the community.
+
+5. **Fork the Repository**: Once you've chosen an issue or feature to work on, fork the Quantum-Mesh repository to your GitHub account. This will create a copy of the repository under your account where you can make changes and submit pull requests.
+
+6. **Create a Feature Branch**: Before making any changes, create a new feature branch from the main branch of your forked repository. Use a descriptive branch name that reflects the feature or issue you're working on. For example:
+   ```
+   git checkout -b feature/new-feature
+   ```
+
+7. **Implement Your Changes**: Write clean, well-documented code that adheres to the project's coding standards and design principles. Make sure to include appropriate tests for your changes to ensure their correctness and maintainability.
+
+8. **Commit Your Changes**: Once you've implemented your changes, commit them to your feature branch with clear and descriptive commit messages. Follow the commit message format specified in the contribution guidelines.
+
+9. **Push Your Changes**: After committing your changes, push your feature branch to your forked repository on GitHub:
+   ```
+   git push origin feature/new-feature
+   ```
+
+10. **Submit a Pull Request (PR)**: Once your changes are pushed to your forked repository, submit a pull request (PR) to the main Quantum-Mesh repository. Provide a detailed description of your changes, including the problem solved, the approach taken, and any relevant information for reviewers. Reference the related issue in your PR if applicable.
+
+11. **Review and Address Feedback**: Your PR will undergo review by maintainers and other contributors. Be responsive to feedback and address any comments or suggestions provided by reviewers. Make necessary changes and push them to your feature branch.
+
+12. **Merge Your PR**: Once your PR has been approved and all feedback addressed, a maintainer will merge your changes into the main branch of the Quantum-Mesh repository. Congratulations, your contribution has been successfully integrated into the project!
+
+13. **Stay Engaged**: Continue to stay engaged with the Quantum-Mesh community by participating in discussions, reviewing PRs, and contributing to ongoing development efforts. Your continued involvement is essential to the success and growth of the project.
+
+Thank you for your contributions to Quantum-Mesh! Together, we can drive innovation and push the boundaries of blockchain technology with quantum computing principles. If you have any questions or need assistance, don't hesitate to reach out to the maintainers or community members for support. Happy coding!
